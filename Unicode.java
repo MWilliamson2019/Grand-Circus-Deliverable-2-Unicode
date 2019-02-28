@@ -1,3 +1,4 @@
+
 package mypackage;
 
 
@@ -69,7 +70,7 @@ public class Unicode {
 		System.out.println(sum1);
 		System.out.println();
 		
-		System.out.println("The difference as an absolute value is: " + Math.abs(sum - sum1));
+		System.out.println("The difference as an absolute value between string 1 and string 2 is: " + Math.abs(sum - sum1));
 		
 		scan.close();
 	       
